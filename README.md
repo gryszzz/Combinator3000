@@ -7,6 +7,14 @@ It includes:
 - a Windows batch launcher for interactive use
 - a packaged `combinator.exe` binary in the repo
 
+## Demo
+
+![Combinator3000 demo preview](assets/combinator3000-demo-preview.gif)
+
+[![Watch the full Combinator3000 demo](assets/combinator3000-demo-poster.png)](https://github.com/user-attachments/assets/52e5a8c3-8221-46ca-af1f-c08702ceb1f5)
+
+If GitHub mobile does not play the embed inline, tap the preview card above to open the full demo clip.
+
 ## What It Does
 
 Given an input like `123`, the tool generates all unique digit arrangements:
